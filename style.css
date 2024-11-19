@@ -2,3 +2,34 @@
      color: crimson;
      background-color: black;
 }
+
+header {
+     border-bottom: solid 2px rgb(red);
+     padding: 20px;
+     font-size: 32px;
+     color:darkred;
+}
+
+ section {
+    background-color: firebrick;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+        img {
+            height: 200px;
+        }
+
+        .categoria-videos{
+            display: flex;
+            overflow: auto;
+            padding-right: 10px
+             gap: 10xp; 
+             
+        }
+
+       h2 { 
+            padding-left: 20px;
+        }
